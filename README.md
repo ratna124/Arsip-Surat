@@ -6,6 +6,6 @@ Ratna Indah Safitri
 
 
 <h1>Hasil : </h1>
-![plot](./Hasil/1.jpg)
-![plot](./Hasil/2.jpg)
-![plot](./Hasil/3.jpg)
+![plot](./Hasil/1.png)
+![plot](./Hasil/2.png)
+![plot](./Hasil/3.png)
